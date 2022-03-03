@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# Notes App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## React Crash Course by Dennis Ivy
 
-## Available Scripts
+Below are a list of articles I've written to explain how the application was built, following [Dennis Ivy's](https://medium.com/r/?url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCTZRcDjjkVajGL6wd76UnGg) - [React JS Crash Course](https://medium.com/r/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6fM3ueN9nYM)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+**How it works**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [Part 1: Introduction to React](https://javascript.plainenglish.io/react-crash-course-how-it-works-3b9a6ee04d9d?sk=3a953d982eb0014157fb3d1ce1a51624)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Hello React**
 
-### `npm test`
+- [Part 2: Setting up a "Hello World" React Project](https://javascript.plainenglish.io/react-crash-course-hello-react-bb23fe493d4d?sk=bbd4a6226f2ad6dc1cdbf150d8cfbe84)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Components, Pages and Props**
 
-### `npm run build`
+- [Part 3: Building Components and Working with Data](https://javascript.plainenglish.io/react-crash-course-components-pages-and-props-4650081684d0?sk=334d2020516a8961a13821ddbd8f5602)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**React Router**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [Part 4: Building Pages with Routes and Links](https://javascript.plainenglish.io/react-crash-course-react-router-391add340d91?sk=7561d97665b34fde7af8c2b39c77db83)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Styling the Application**
 
-### `npm run eject`
+- [Part 5: Adding CSS to style a React Application](https://javascript.plainenglish.io/react-crash-course-styling-the-application-daf31a0ebb9d?sk=2ef5781ad6e7b4f907ec325fae65f77a)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**JSON Server**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [Part 6: Prototyping React Applications with a Mock Backend](https://javascript.plainenglish.io/react-crash-course-json-server-8f58dc44c271?sk=74a0cf76fc1f018f3fae275931aa2ad1)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**Understanding State and Lifecycle Methods**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- [Part 7: Building a foundation for State and Lifecycle Methods](https://javascript.plainenglish.io/react-crash-course-understanding-state-and-lifecycle-methods-df81842a419b?sk=4739d8db411bfbbf67c889e007a7c2d2)
 
-## Learn More
+**Making API Calls with Fetch**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [Part 8: Pulling data from the backend into a React Application](https://javascript.plainenglish.io/react-crash-course-making-api-calls-with-fetch-d4d0547527ad?sk=d81e6792c8add178e0c9a94e4ce7a1a3)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Updating with the PUT method**
 
-### Code Splitting
+- [Part 9: Making fetch calls in our React application to update the backend](https://javascript.plainenglish.io/react-crash-course-updating-with-the-put-method-5414c67f5182?sk=89fb1ab770a1a7d18feabfd9307e896d)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**POST and DELETE Methods**
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [Part 10: Making fetch calls in our React applications to update the backend](https://javascript.plainenglish.io/react-crash-course-post-and-delete-methods-675f95dffe0f?sk=951b16f5d7e8dc60aa55393e5d154127)
