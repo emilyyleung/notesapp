@@ -1,11 +1,11 @@
-import notes from "../assets/data";
+import { useState } from "react";
 import { Link } from "react-router-dom";
 import { ReactComponent as ArrowLeft } from "../assets/arrow-left.svg";
 
 const NotePage = ({ match }) => {
 	let noteId = match.params.id;
 
-	let note = notes.find((note) => note.id === Number(noteId));
+	let [note, setNote] = useState(null);
 
 	return (
 		<div className='note'>
