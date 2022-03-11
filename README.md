@@ -2,7 +2,7 @@
 
 ## React Crash Course by Dennis Ivy
 
-Below are a list of articles I've written to explain how the application was built, following [Dennis Ivy's](https://medium.com/r/?url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCTZRcDjjkVajGL6wd76UnGg) - [React JS Crash Course](https://medium.com/r/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6fM3ueN9nYM)
+Below are a list of articles I've written to explain how the application was built, following [Dennis Ivy's](https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg) - [React JS Crash Course](https://www.youtube.com/watch?v=6fM3ueN9nYM)
 
 ---
 
